@@ -1,2 +1,20 @@
-# -To-Do-App-
-Java Swing To-Do App – A simple desktop app to add and delete tasks using Java Swing. Built with JFrame, JTextField, JButton, and JList with DefaultListModel. Demonstrates GUI creation, event handling, and layout management for beginner-friendly desktop app development.
+# Java Swing To-Do App
+
+A simple desktop To-Do List application built using **Java Swing**.
+
+## Features
+- Add tasks
+- Delete tasks
+- Scrollable task list
+
+## Technologies
+- Java
+- Swing (GUI)
+
+## How to Run
+1. Clone the repo
+2. Compile: `javac ToDoApp.java`
+3. Run: `java ToDoApp`
+
+## Screenshot
+(Add a screenshot here)
